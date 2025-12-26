@@ -40,3 +40,5 @@ Status 200 OK menandakan bahwa model berhasil memproses input dan menghasilkan k
 - Model yang digunakan adalah mt5-small yang telah di-fine-tune khusus untuk tugas paraphrase generation Bahasa Indonesia.
 - API ini dirancang untuk kebutuhan pengujian dan demonstrasi model, serta dapat dikembangkan lebih lanjut untuk integrasi ke sistem lain.
 - Pastikan path MODEL_DIR sesuai dengan lokasi penyimpanan model agar proses pemuatan model tidak mengalami error.
+
+LINK DRIVE MODEL : https://drive.google.com/drive/folders/1T22U204fPJeUlrAtOOBxRZChnR3LhiY6?usp=drive_link
